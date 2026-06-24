@@ -1,12 +1,14 @@
-# cognitive-os.org
+# .github — CognitiveOS Organization Profile
 
-Project website for CognitiveOS.
+Community health files, org profile (`profile/README.md`), and GitHub Pages landing page for the [CognitiveOS Project](https://github.com/CognitiveOS-Project).
 
 ## What's here
 
-- `index.html` — Landing page
+- `profile/README.md` — Org-level profile shown on github.com/CognitiveOS-Project
+- `index.html` — Landing page at cognitive-os.org
 - `style.css` — Dark theme styles
 - `CNAME` — GitHub Pages custom domain
+- `LICENSE` — MIT
 
 ## Build/deploy
 
