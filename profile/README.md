@@ -29,7 +29,6 @@ Replace app-centric computing — find, open, learn, grant permissions, manage f
 
 - [cognitive-os.org](https://cognitive-os.org) — project website
 - [CognitiveOS](https://github.com/CognitiveOS-Project/cognitiveos) — main project repository
-
 ## Status
 
 All 7 implementation phases complete. Specs, SDLC, and all repos are implemented and merged to `main`.
