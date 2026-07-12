@@ -21,7 +21,7 @@ Replace app-centric computing — find, open, learn, grant permissions, manage f
 | [inference](https://github.com/CognitiveOS-Project/inference) | Go/C | LLM inference engine |
 | [cognitiveosd](https://github.com/CognitiveOS-Project/cognitiveosd) | Go | System daemon |
 | [cli](https://github.com/CognitiveOS-Project/cli) | Go | Bubble Tea TUI frontend |
-| [cognitiveos-distro](https://github.com/CognitiveOS-Project/cognitiveos-distro) | Shell/Docker | Alpine image builder |
+| [cognitiveos-alpine-distro](https://github.com/CognitiveOS-Project/cognitiveos-alpine-distro) | Shell/Docker | Alpine image builder |
 | [cgp-template](https://github.com/CognitiveOS-Project/cgp-template) | Template | .cgp boilerplate |
 | [registry-server](https://github.com/CognitiveOS-Project/registry-server) | Go | Package registry |
 
