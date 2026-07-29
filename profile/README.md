@@ -20,8 +20,9 @@ Replace app-centric computing — find, open, learn, grant permissions, manage f
 | [core-mcp-bridges](https://github.com/CognitiveOS-Project/core-mcp-bridges) | Go | MCP hardware tool servers |
 | [inference](https://github.com/CognitiveOS-Project/inference) | Go/C | LLM inference engine |
 | [cognitiveosd](https://github.com/CognitiveOS-Project/cognitiveosd) | Go | System daemon |
+| [coginit](https://github.com/CognitiveOS-Project/coginit) | Go | Boot manager, init, backdoor shell |
 | [cli](https://github.com/CognitiveOS-Project/cli) | Go | Bubble Tea TUI frontend |
-| [cognitiveos-distro](https://github.com/CognitiveOS-Project/cognitiveos-distro) | Shell/Docker | Alpine image builder |
+| [cognitiveos-alpine-distro](https://github.com/CognitiveOS-Project/cognitiveos-alpine-distro) | Shell/Docker | Alpine image builder |
 | [cgp-template](https://github.com/CognitiveOS-Project/cgp-template) | Template | .cgp boilerplate |
 | [registry-server](https://github.com/CognitiveOS-Project/registry-server) | Go | Package registry |
 
