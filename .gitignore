@@ -2,3 +2,6 @@
 .DS_Store
 *.swp
 *.swo
+
+# macOS AppleDouble / Finder metadata
+._*
